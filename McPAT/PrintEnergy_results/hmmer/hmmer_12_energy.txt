@@ -1,0 +1,4 @@
+Reading simulation time from: hmmer_12.txt
+Reading simulation time from: stats.txt
+leakage: 3.548520 W, dynamic: 1.551190 W and runtime: 0.058936 sec
+energy is 300.556509 mJ
