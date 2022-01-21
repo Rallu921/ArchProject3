@@ -1,0 +1,4 @@
+Reading simulation time from: bzip_16.txt
+Reading simulation time from: stats.txt
+leakage: 3.112520 W, dynamic: 2.055090 W and runtime: 0.079049 sec
+energy is 408.494403 mJ
