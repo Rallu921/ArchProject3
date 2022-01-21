@@ -1,4 +1,0 @@
-Reading simulation time from: libm_4.txt
-Reading simulation time from: stats.txt
-leakage: 2.125780 W, dynamic: 0.247423 W and runtime: 0.174809 sec
-energy is 414.857243 mJ
