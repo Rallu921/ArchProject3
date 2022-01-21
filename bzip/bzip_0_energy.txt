@@ -1,4 +1,0 @@
-Reading simulation time from: specbzip_default.txt
-Reading simulation time from: stats.txt
-leakage: 1.153270 W, dynamic: 0.347652 W and runtime: 0.083982 sec
-energy is 126.050431 mJ
