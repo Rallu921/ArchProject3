@@ -1,4 +1,0 @@
-Reading simulation time from: mcf_21.txt
-Reading simulation time from: stats.txt
-leakage: 3.184870 W, dynamic: 2.062820 W and runtime: 0.055348 sec
-energy is 290.449146 mJ
