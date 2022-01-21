@@ -1,4 +1,0 @@
-Reading simulation time from: sjeng_10.txt
-Reading simulation time from: stats.txt
-leakage: 1.918420 W, dynamic: 0.216584 W and runtime: 0.513514 sec
-energy is 1096.354444 mJ
