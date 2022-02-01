@@ -36,34 +36,35 @@
 
 4.  
 
-Όταν το σύστημα είναι σε αδράνεια, εξακολουθεί να καταναλώνεται ενέργεια λόγω διαρροής ενέργειας, που εξαρτάται από το Total Leakage, το οποίο στον Xeon είναι κατά πολύ μεγαλύτερο από του ARM A9.    
+Όταν το σύστημα είναι σε αδράνεια, εξακολουθεί να καταναλώνεται ενέργεια λόγω διαρροής ενέργειας, που εξαρτάται από το Total Leakage, το οποίο στον Xeon είναι κατά πολύ μεγαλύτερο από του ARM A9.     
+      
 Παρατηρούμε ότι ο Xeon είναι ενεργειακά πιο αποδοτικός από τον ARM A9.   
 Θέτουμε σαν όρο σύγκρισης το «Performance» που το θέτουμε **40** για τον **Xeon** και **1** για τον **ARM A9** κι έτσι την αποδοτικότητα την εκτιμάμε ως (Performance)/(Power).
 
-Xeon: 	Performance = 40  	
-	Runtime Dynamic = 72.9199 W
-	Total Leakage = 36.8319 W
+Xeon: 	Performance = 40    	
+	Runtime Dynamic = 72.9199 W  
+	Total Leakage = 36.8319 W  
 	
-
-
-ARM A9: Performance = 1
-	Runtime Dynamic = 2.96053 W
-	Total Leakage = 0.108687 W
-
-
-> Power = (Runtime Dynamic) + (Total Leakage)
-> Energy efficiency = (Performance)/(Power)
-
-
-Xeon: 	Power = 72.9199 W + 36.8319 W = 109.7518 W
-	Energy efficiency = 40/109.7518 = 0.36446
-
-ARM A9: Power = 2.96053 W + 0.108687 W = 3.069217 W
-	Energy efficiency = 1/3.069217 = 0.325816
   
+
+ARM A9: Performance = 1  
+	Runtime Dynamic = 2.96053 W  
+	Total Leakage = 0.108687 W  
     
-
-
+   
+> Power = (Runtime Dynamic) + (Total Leakage)  
+> Energy efficiency = (Performance)/(Power)  
+     
+    
+Xeon: 	Power = 72.9199 W + 36.8319 W = 109.7518 W  
+	Energy efficiency = 40/109.7518 = 0.36446  
+     
+ARM A9: Power = 2.96053 W + 0.108687 W = 3.069217 W  
+	Energy efficiency = 1/3.069217 = 0.325816  
+    
+         
+    
+    
 **Βήμα 2**  
   
 1.  
